@@ -1,6 +1,6 @@
 # Ray-traced Images(JPG) for SSIM Calculation
 
-* Images 1, 2 (1920x1080, sample:1, depth:50) of our ray tracer using FP32
+Images 1, 2 (1920x1080, sample:1, depth:50) of our ray tracer using FP32
 * Image 1: before fixing the scatter function of Dielectric material
 ![BFP_dielectricX](https://user-images.githubusercontent.com/80330331/227309455-08153ee1-d13f-4d9f-87fb-614b2724fed6.jpg)
 
