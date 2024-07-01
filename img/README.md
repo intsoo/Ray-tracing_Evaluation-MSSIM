@@ -1,4 +1,4 @@
-# Ray-traced Images(JPG) for SSIM Calculation
+# Ray-Traced Images (JPG) for SSIM Calculation
 
 ### Images (1920x1080, sample:1, depth:50) of our ray tracer using FP32
 * Image 1: before fixing the scatter function of Dielectric material
